@@ -7,11 +7,13 @@ Main Panel:
 Sign In:
 ![Sign In](https://user-images.githubusercontent.com/55413701/127167817-9f7f3270-1079-4a6e-96cd-ddccdf6b9185.png)
 
-Customer Panel:
+Customer Panel. It can recognize how is the user and display its name on the top of the page:
 ![CustomerPanel](https://user-images.githubusercontent.com/55413701/127167918-240b44fc-16b6-447c-9572-bc7da1fb3ce7.png)
 
 Creating a new feedback by a user, now with authorization and authentication user can create, delete, update its own feedback and like others people's feedback.
 ![Creating a feedback](https://user-images.githubusercontent.com/55413701/127168010-646a8d2d-3902-4e6d-ba1a-1d7c89a548b3.png)
+
+
 ![new Feedback](https://user-images.githubusercontent.com/55413701/127168021-73c5f91a-3cdb-48b7-a39f-2cb103e223d7.png)
 
 
