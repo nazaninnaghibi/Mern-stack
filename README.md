@@ -1,4 +1,4 @@
-I have created a review page for a company using MERN Stack which it stands for (MongoDB, Express,Redux, Node.js) that if its customers would like to create, modify or delete their own feedback or even they want to like others feedback, must sign up first, or if they already registered, they should sign in, otherwise all of those things will be inactive, so both authorization and authentication are applied on this page.
+I have created a Twitter app using MERN Stack which stands for (MongoDB, Express,Redux, Node.js), if users would like to create, modify or delete their own feedback or even they want to like others feedback, must sign up first, or if they already registered, they should sign in, otherwise all of these things will be inactive, it means both authorization and authentication are applied on this page.
 
 Main Panel:
 ![MainPanel](https://user-images.githubusercontent.com/55413701/127167759-798c594a-2649-46fc-99d0-8e515e6efccc.png)
